@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Python 🐍<br>📽️ Part-time content creator
+🔭 I'm currently working on DSA in Python 🐍<br>📽️ Part-time content creator
 
 
 ## 🌐 Socials:
